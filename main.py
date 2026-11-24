@@ -1,0 +1,3 @@
+
+
+w = np.random.rand
